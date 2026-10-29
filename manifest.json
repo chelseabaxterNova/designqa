@@ -27,7 +27,7 @@
   ],
   "accessibilityRules": ["Icon-only buttons must have an aria-label that describes the action (e.g. aria-label=\"Cart\").",
 "Every form input needs a <label> or aria-label. A placeholder is not a label."],
-  "responsiveRules": ["Multi-column grids must stack on mobile: start with grid-cols-one and add columns at md: or above",
+  "responsiveRules": ["Multi-column grids must stack on mobile: start with grid-cols-1 and add columns at md: or above",
 "No fixed widths wider than a phone screen (over w-80 / 320px) without a responsive prefix. Use w-full with a max w-* cap instead."],
   "spacingScale": {
     "xs": "0.5rem",
